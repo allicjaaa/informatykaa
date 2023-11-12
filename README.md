@@ -1,1 +1,2 @@
-# informatykaa
+import math
+print("test")
